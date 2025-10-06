@@ -1,0 +1,24 @@
+{
+    "philosophy": "Reasoning and clarity over memorized tricks. If a fact beyond the standard set is required, we state it.",
+    "format": {
+    "sprint": { "items": 20, "minutes": 40, "scoring": "+4 correct, −1 wrong, 0 blank" },
+    "solve": { "items": 6, "minutes": 60, "pointsEach": 10, "rubric": "2 setup, 3 key idea, 5 completion" }
+    },
+    "tiebreakers": ["Higher Solve total", "Fewer wrong on Sprint", "Earlier finishing timestamp"],
+    "integrity": [
+    "Question and choice order randomized per student",
+    "Windowed access with visible countdown",
+    "Save on every submission",
+    "Optional proctor code release at start time"
+    ],
+    "allowedTools": {
+    "A": ["scratch paper", "ruler", "basic calculator (if school policy allows)"],
+    "B": ["everything in A"]
+    },
+    "excludedTopics": [
+    "complex numbers",
+    "advanced number theory theorems",
+    "heavy trig identities",
+    "multivariable calculus"
+    ]
+}

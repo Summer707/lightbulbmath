@@ -1,0 +1,25 @@
+{
+    "season": 2024,
+    "divisions": [
+    {
+    "name": "Division A",
+    "awards": [
+    { "place": 1, "student": "A. Nguyen", "school": "Ridgeview HS", "state": "NJ", "score": 86 },
+    { "place": 2, "student": "M. Patel", "school": "Lakeside HS", "state": "NJ", "score": 83 },
+    { "place": 3, "student": "S. Romero", "school": "Westfield HS", "state": "NJ", "score": 82 }
+    ],
+    "honorableMentions": [
+    { "student": "J. Chen", "school": "Northview HS", "state": "NJ" },
+    { "student": "E. Brown", "school": "Maple HS", "state": "NJ" }
+    ]
+    },
+    {
+    "name": "Division B",
+    "awards": [
+    { "place": 1, "student": "R. Li", "school": "Cedar Ridge HS", "state": "NJ", "score": 78 },
+    { "place": 2, "student": "K. Johnson", "school": "Sunset HS", "state": "NJ", "score": 76 },
+    { "place": 3, "student": "L. Davis", "school": "Brookside HS", "state": "NJ", "score": 74 }
+    ]
+    }
+    ]
+}

@@ -1,0 +1,16 @@
+[
+    {
+    "id": "A",
+    "name": "Division A",
+    "grades": "9-10",
+    "summary": "Pre‑calculus tools only. Algebra, geometry, counting, discrete logic.",
+    "calcAllowed": false
+    },
+    {
+    "id": "B",
+    "name": "Division B",
+    "grades": "11-12",
+    "summary": "All of A plus light calculus where it clarifies the idea.",
+    "calcAllowed": true
+    }
+]

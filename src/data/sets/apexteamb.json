@@ -1,0 +1,19 @@
+{
+  "slug": "apexteamb",
+  "title": "Lightbulb Team: Apex Team B",
+  "division": "B",
+  "durationMinutes": 60,
+  "items": [
+    {
+      "id": "B1",
+      "type": "mcq",
+      "prompt": "<p><strong>B1.</strong> Example Division B logic MCQ prompt.</p>",
+      "choices": ["<p>A</p>", "<p>B</p>", "<p>C</p>", "<p>D</p>"]
+    },
+    {
+      "id": "B2",
+      "type": "fr",
+      "prompt": "<p><strong>B2.</strong> Explain your reasoning.</p>"
+    }
+  ]
+}

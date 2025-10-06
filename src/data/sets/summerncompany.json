@@ -1,0 +1,19 @@
+{
+  "slug": "summerncompany",
+  "title": "Lightbulb Team: Summer N Company",
+  "division": "A",
+  "durationMinutes": 60,
+  "items": [
+    {
+      "id": "A1",
+      "type": "mcq",
+      "prompt": "<p><strong>A1.</strong> Example Division A MCQ prompt.</p>",
+      "choices": ["<p>A</p>", "<p>B</p>", "<p>C</p>", "<p>D</p>"]
+    },
+    {
+      "id": "A2",
+      "type": "fr",
+      "prompt": "<p><strong>A2.</strong> Short reasoning prompt (free response).</p>"
+    }
+  ]
+}
