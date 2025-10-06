@@ -14,10 +14,7 @@ export default function Hero() {
           <p className="mt-4 text-lg text-zinc-700 max-w-prose">
             Logic-first math from Edison, New Jersey. Two divisions. Clean problems. Honest scoring.
           </p>
-          <div className="mt-6 flex items-center gap-3 text-sm">
-            <span className="rounded-full bg-amber-100 px-3 py-1 border">Next contest: {site.nextContest.label}</span>
-            <span className="font-mono"><Countdown target={site.nextContest.dateISO} /></span>
-          </div>
+          
           <div className="mt-8 flex gap-4">
             <Link href="/register" className="rounded-lg bg-amber-500 px-4 py-2 text-white">Register</Link>
             <Link href="/rules" className="rounded-lg border px-4 py-2">See rules</Link>
