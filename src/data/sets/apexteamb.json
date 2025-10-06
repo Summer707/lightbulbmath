@@ -5,15 +5,184 @@
   "durationMinutes": 60,
   "items": [
     {
-      "id": "B1",
+      "id": "A1",
       "type": "mcq",
-      "prompt": "<p><strong>B1.</strong> Example Division B logic MCQ prompt.</p>",
-      "choices": ["<p>A</p>", "<p>B</p>", "<p>C</p>", "<p>D</p>"]
+      "prompt": "<p><strong>A1.</strong> Anna has five circular discs that are all of different sizes. She wants to build a tower using three discs where a smaller disc always lies on top of a bigger one. How many ways can she build the tower?</p>",
+      "choices": ["<p>A) 5</p>", "<p>B) 6</p>", "<p>C) 8</p>", "<p>D) 10</p>", "<p>E) 15</p>"]
     },
     {
-      "id": "B2",
-      "type": "fr",
-      "prompt": "<p><strong>B2.</strong> Explain your reasoning.</p>"
+      "id": "A2",
+      "type": "mcq",
+      "prompt": "<p><strong>A2.</strong> John throws 150 coins onto a table. 60 of them show heads, the others tails. He wants the same amount of coins to show heads as tails. How many coins that show heads does he have to turn over?</p>",
+      "choices": ["<p>A) 10</p>", "<p>B) 15</p>", "<p>C) 20</p>", "<p>D) 25</p>", "<p>E) 30</p>"]
+    },
+    {
+      "id": "A3",
+      "type": "mcq",
+      "prompt": "<p><strong>A3.</strong> What is the value of 20 × 24 / (2×0 + 2×4)?</p>",
+      "choices": ["<p>A) 12</p>", "<p>B) 30</p>", "<p>C) 48</p>", "<p>D) 60</p>", "<p>E) 120</p>"]
+    },
+    {
+      "id": "A4",
+      "type": "mcq",
+      "prompt": "<p><strong>A4.</strong> Uli can buy exactly 12 packages of jelly babies or exactly 20 chocolate bars with her pocket money. Uli buys 9 packages of jelly babies. How many chocolate bars can she buy with the remaining money?</p>",
+      "choices": ["<p>A) 3</p>", "<p>B) 4</p>", "<p>C) 5</p>", "<p>D) 6</p>", "<p>E) 8</p>"]
+    },
+    {
+      "id": "A5",
+      "type": "mcq",
+      "prompt": "<p><strong>A5.</strong> Every day, penguin Paula catches 12 fish for her two children. Every day she gives one of her children 7 fish and the other 5 fish. After several days, one of her children has received 44 fish. How many fish did the other child receive?</p>",
+      "choices": ["<p>A) 34</p>", "<p>B) 40</p>", "<p>C) 46</p>", "<p>D) 52</p>", "<p>E) 58</p>"]
+    },
+    {
+      "id": "A6",
+      "type": "mcq",
+      "prompt": "<p><strong>A6.</strong> Fresh mushrooms consist of 80 percent water. In dried mushrooms, however, the amount of water is only 20 percent of its mass. By what percentage does the mass of a mushroom decrease during drying?</p>",
+      "choices": ["<p>A) 60</p>", "<p>B) 70</p>", "<p>C) 75</p>", "<p>D) 80</p>", "<p>E) 85</p>"]
+    },
+    {
+      "id": "A7",
+      "type": "mcq",
+      "prompt": "<p><strong>A7.</strong> 50 children are sitting in a circle. They throw a ball. Each child that gets the ball throws the ball to the child sitting six places to their left. Frida gets the ball 100 times during the game. How many children never get the ball during this time?</p>",
+      "choices": ["<p>A) 0</p>", "<p>B) 8</p>", "<p>C) 10</p>", "<p>D) 25</p>", "<p>E) 40</p>"]
+    },
+    {
+      "id": "A8",
+      "type": "mcq",
+      "prompt": "<p><strong>A8.</strong> Max and two of his friends are standing in a line. The number of people in the line is a multiple of 3. He realises that there are the same number of people in front of him as behind him. His two friends are both behind him: one is in position 19, the other one in position 28. In which position of the line is Max?</p>",
+      "choices": ["<p>A) 14</p>", "<p>B) 15</p>", "<p>C) 16</p>", "<p>D) 17</p>", "<p>E) 18</p>"]
+    },
+    {
+      "id": "A9",
+      "type": "mcq",
+      "prompt": "<p><strong>A9.</strong> Snow White organises a chess tournament for the seven dwarfs. Every dwarf has to play every other dwarf exactly once. On Monday Grumpy plays 1 game, Sneezy plays 2, Sleepy 3, Bashful 4, Happy 5 and Doc 6 games. How many games does Dopey play on Monday?</p>",
+      "choices": ["<p>A) 1</p>", "<p>B) 2</p>", "<p>C) 3</p>", "<p>D) 4</p>", "<p>E) 5</p>"]
+    },
+    {
+      "id": "A10",
+      "type": "mcq",
+      "prompt": "<p><strong>A10.</strong> A rugby team scored 24, 17 and 25 points in their 7th, 8th and 9th games of the previous season. The average number of points per game was higher after 9 games than after their first 6 games. Their average after 10 games was more than 22 points. What is the minimum number of points they have scored in their 10th game?</p>",
+      "choices": ["<p>A) 22</p>", "<p>B) 23</p>", "<p>C) 24</p>", "<p>D) 25</p>", "<p>E) 26</p>"]
+    },
+    {
+      "id": "A11",
+      "type": "mcq",
+      "prompt": "<p><strong>A11.</strong> Ria has three cards with the numbers 1, 5 and 11. She wants to place the cards next to each other to form a 4-digit number. How many different 4-digit numbers can she form?</p>",
+      "choices": ["<p>A) 3</p>", "<p>B) 4</p>", "<p>C) 6</p>", "<p>D) 8</p>", "<p>E) 9</p>"]
+    },
+    {
+      "id": "A12",
+      "type": "mcq",
+      "prompt": "<p><strong>A12.</strong> There are five different kinds of fruit in a bowl: apples, grapes, cherries, strawberries and bananas. Anna likes apples, cherries, strawberries and bananas. Berta likes apples. Conny likes grapes, cherries, strawberries and bananas. Doris likes apples, grapes and cherries. Eva likes apples and cherries. The fruits are shared out so that each person gets a different kind of fruit but everybody gets a kind of fruit that they like. Who gets the cherries?</p>",
+      "choices": ["<p>A) Anna</p>", "<p>B) Berta</p>", "<p>C) Conny</p>", "<p>D) Doris</p>", "<p>E) Eva</p>"]
+    },
+    {
+      "id": "A13",
+      "type": "mcq",
+      "prompt": "<p><strong>A13.</strong> Dorli writes down three consecutive natural numbers in increasing order. She replaces the digits using symbols and gets: □♦♦, ♡∆∆, ♡∆□. What would be the next bigger number in this notation?</p>",
+      "choices": ["<p>A) ♡♡♦</p>", "<p>B) □♡□</p>", "<p>C) ♡∆♦</p>", "<p>D) ♡♦□</p>", "<p>E) ♡∆♡</p>"]
+    },
+    {
+      "id": "A14",
+      "type": "mcq",
+      "prompt": "<p><strong>A14.</strong> The digits 0–9 can be drawn using horizontal and vertical lines as shown. Greg chooses two digits. Together, his digits have 1 horizontal line and 5 vertical lines. What is the sum of his two digits?</p>",
+      "choices": ["<p>A) 5</p>", "<p>B) 6</p>", "<p>C) 8</p>", "<p>D) 10</p>", "<p>E) 11</p>"]
+    },
+    {
+      "id": "A15",
+      "type": "mcq",
+      "prompt": "<p><strong>A15.</strong> The side lengths of a square are 1 cm long. How many points on a plane surface are there that are exactly 1 cm away from two corner points of the square?</p>",
+      "choices": ["<p>A) 4</p>", "<p>B) 5</p>", "<p>C) 6</p>", "<p>D) 10</p>", "<p>E) 12</p>"]
+    },
+    {
+      "id": "A16",
+      "type": "mcq",
+      "prompt": "<p><strong>A16.</strong> All trolleys in a shop are the same. Four trolleys slid together have a total length of 108 cm. Ten trolleys slid together have a total length of 168 cm. How long is one trolley?</p>",
+      "choices": ["<p>A) 60 cm</p>", "<p>B) 68 cm</p>", "<p>C) 78 cm</p>", "<p>D) 88 cm</p>", "<p>E) 90 cm</p>"]
+    },
+    {
+      "id": "A17",
+      "type": "mcq",
+      "prompt": "<p><strong>A17.</strong> Tarek wants to colour two more cells of the 4 × 4 square in black so that the pattern made by white and black cells in the 4 × 4 square has exactly one axis of symmetry. In how many ways can he do that?</p>",
+      "choices": ["<p>A) 2</p>", "<p>B) 3</p>", "<p>C) 4</p>", "<p>D) 5</p>", "<p>E) 6</p>"]
+    },
+    {
+      "id": "A18",
+      "type": "mcq",
+      "prompt": "<p><strong>A18.</strong> Two rays starting in S form a right angle. More rays starting in S are drawn within the right angle so that each angle 10°, 20°, 30°, 40°, 50°, 60°, 70° and 80° is enclosed by two rays. What is the minimum number of rays that have to be drawn?</p>",
+      "choices": ["<p>A) 2</p>", "<p>B) 3</p>", "<p>C) 4</p>", "<p>D) 5</p>", "<p>E) 6</p>"]
+    },
+    {
+      "id": "A19",
+      "type": "mcq",
+      "prompt": "<p><strong>A19.</strong> Some edges of a cube are coloured in red so that each side of the cube has at least one red edge. What is the minimum number of red edges that the cube has?</p>",
+      "choices": ["<p>A) 2</p>", "<p>B) 3</p>", "<p>C) 4</p>", "<p>D) 5</p>", "<p>E) 6</p>"]
+    },
+    {
+      "id": "A20",
+      "type": "mcq",
+      "prompt": "<p><strong>A20.</strong> A farmer sells chicken eggs and duck eggs. In different baskets he has 4, 6, 12, 13, 22 and 29, respectively, eggs of one kind in each. Christoph buys all the eggs in one basket. The farmer then realises that he now has twice as many chicken eggs as duck eggs. How many eggs did Christoph buy?</p>",
+      "choices": ["<p>A) 4</p>", "<p>B) 12</p>", "<p>C) 13</p>", "<p>D) 22</p>", "<p>E) 29</p>"]
+    },
+    {
+      "id": "A21",
+      "type": "mcq",
+      "prompt": "<p><strong>A21.</strong> Tiler Teri wants to cover a square floor with a regular pattern using six-sided and three-sided tiles. She estimates that she will be needing approximately 3000 six-sided tiles for the entire floor. Approximately, how many three-sided tiles will she be needing?</p>",
+      "choices": ["<p>A) 1000</p>", "<p>B) 1500</p>", "<p>C) 3000</p>", "<p>D) 6000</p>", "<p>E) 9000</p>"]
+    },
+    {
+      "id": "A22",
+      "type": "mcq",
+      "prompt": "<p><strong>A22.</strong> Dagobert wants to complete the diagram so that numbers in each box in the middle and top row are equal to the product of the values of the two boxes underneath. Each box should contain a positive whole number. He wants the top box to contain the number 36. How many different values can the number n have?</p>",
+      "choices": ["<p>A) 1</p>", "<p>B) 2</p>", "<p>C) 3</p>", "<p>D) 4</p>", "<p>E) 5</p>"]
+    },
+    {
+      "id": "A23",
+      "type": "mcq",
+      "prompt": "<p><strong>A23.</strong> Some kangaroos and three beavers are standing in a circle. No beaver stands directly next to another beaver. There are exactly three kangaroos that are standing next to another kangaroo. What is the biggest possible number of kangaroos in the circle?</p>",
+      "choices": ["<p>A) 4</p>", "<p>B) 5</p>", "<p>C) 6</p>", "<p>D) 7</p>", "<p>E) 8</p>"]
+    },
+    {
+      "id": "A24",
+      "type": "mcq",
+      "prompt": "<p><strong>A24.</strong> Anne drives from point A to point B and then immediately back to A. Benni drives from point B to point A and then immediately back to B. They drive on the same road, start at the same time and both drive with constant speed. Anne’s speed is three times as high as Benni’s speed. They meet for the first time 15 minutes after they start. How long after the start will they meet for the second time?</p>",
+      "choices": ["<p>A) 20 min</p>", "<p>B) 25 min</p>", "<p>C) 30 min</p>", "<p>D) 35 min</p>", "<p>E) 45 min</p>"]
+    },
+    {
+      "id": "A25",
+      "type": "mcq",
+      "prompt": "<p><strong>A25.</strong> Captain Flint asks four of his pirates to note down how many gold, silver and bronze coins there were in the treasure chest on a piece of paper. Only one of the four pirates told the truth. The total number of coins was 30. Who told the truth?</p>",
+      "choices": ["<p>A) Tom</p>", "<p>B) Al</p>", "<p>C) Pit</p>", "<p>D) Jim</p>", "<p>E) This cannot be determined for sure</p>"]
+    },
+    {
+      "id": "A26",
+      "type": "mcq",
+      "prompt": "<p><strong>A26.</strong> Consider the pentagon ABCDE with ∡BAE = ∡CBA = 90°, AE = BC and ED = DC. Four points are marked along AB, dividing AB into five equal parts. Vertical lines are then drawn through these points as shown. The dark part in the middle has an area of 13 cm² and the lightly shaded part to the left has an area of 10 cm². What is the area of the entire pentagon in cm²?</p>",
+      "choices": ["<p>A) 45</p>", "<p>B) 47</p>", "<p>C) 49</p>", "<p>D) 58</p>", "<p>E) 60</p>"]
+    },
+    {
+      "id": "A27",
+      "type": "mcq",
+      "prompt": "<p><strong>A27.</strong> How many five-digit positive numbers have the product of their digits equal to 1000?</p>",
+      "choices": ["<p>A) 10</p>", "<p>B) 20</p>", "<p>C) 30</p>", "<p>D) 40</p>", "<p>E) 60</p>"]
+    },
+    {
+      "id": "A28",
+      "type": "mcq",
+      "prompt": "<p><strong>A28.</strong> Christina has eight coins whose weights in grams are different positive integers. When Christina puts any two coins on one side of a balance scale and any two on the other side, the side containing the heaviest of the four coins is always the heavier side. What is the smallest possible weight of the heaviest coin?</p>",
+      "choices": ["<p>A) 8 g</p>", "<p>B) 12 g</p>", "<p>C) 34 g</p>", "<p>D) 128 g</p>", "<p>E) 256 g</p>"]
+    },
+    {
+      "id": "A29",
+      "type": "mcq",
+      "prompt": "<p><strong>A29.</strong> 2021 balls are arranged in a row and are numbered from 1 to 2021. Each ball is coloured in one of four colours: green, red, yellow or blue. Among any five consecutive balls there is exactly one red, one yellow and one blue ball. After any red ball the next ball is yellow. The balls numbered 2, 20 and 202 are green. What colour is the ball numbered 2021?</p>",
+      "choices": ["<p>A) green</p>", "<p>B) red</p>", "<p>C) yellow</p>", "<p>D) blue</p>", "<p>E) not determined</p>"]
+    },
+    {
+      "id": "A30",
+      "type": "mcq",
+      "prompt": "<p><strong>A30.</strong> The numbers a, b and c satisfy a + b + c = 0 and abc = 78. What is the value of (a + b)(b + c)(c + a)?</p>",
+      "choices": ["<p>A) −156</p>", "<p>B) −78</p>", "<p>C) −39</p>", "<p>D) 78</p>", "<p>E) 156</p>"]
     }
   ]
 }
