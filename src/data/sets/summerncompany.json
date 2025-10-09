@@ -135,7 +135,7 @@
       "prompt": "<p><strong>B11.</strong> The area under y=x² from x=0 to x=a equals the area of a rectangle of height 2 and width a/2. Find a.</p>",
       "choices": [
         "<p>A) 2^(1/3)</p>",
-        "<p>B) 2</p>",
+        "<p>B) Sqrt(3)</p>",
         "<p>C) 3^(1/3)</p>",
         "<p>D) 4^(1/3)</p>",
         "<p>E) 1</p>"
@@ -157,7 +157,7 @@
     {
       "id": "B13",
       "type": "mcq",
-      "prompt": "<p><strong>B13.</strong> The difference of n and 10 is less than 1. How many whole numbers n are there with this characteristic?</p>",
+      "prompt": "<p><strong>B13.</strong> The difference of n and 10 is less than 10. How many whole numbers n are there with this characteristic?</p>",
       "choices": [
         "<p>A) 19</p>",
         "<p>B) 20</p>",
@@ -185,7 +185,7 @@
       "prompt": "<p><strong>B15.</strong> A 6-foot-tall person walks away from a 15-foot-tall streetlight at 2 ft/s. How fast is the tip of their shadow moving when the shadow is 8 ft long?</p>",
       "choices": [
         "<p>A) 2.6 ft/s</p>",
-        "<p>B) 3 ft/s</p>",
+        "<p>B) 10.333 ft/s</p>",
         "<p>C) 3.5 ft/s</p>",
         "<p>D) 4 ft/s</p>",
         "<p>E) 5 ft/s</p>"
@@ -220,13 +220,13 @@
     {
       "id": "B18",
       "type": "mcq",
-      "prompt": "<p><strong>B18.</strong> A line is tangent to y=x³ and passes through the point (0, 1). What is the x-coordinate of the tangency point?</p>",
+      "prompt": "<p><strong>B18.</strong> For the curve y = x^3, the tangent line is parallel to y = 12x + 1 at two distinct points. What is the sum of the x-coordinates of those tangency points?</p>",
       "choices": [
-        "<p>A) −1</p>",
-        "<p>B) −1/2</p>",
+        "<p>A) −4</p>",
+        "<p>B) −2</p>",
         "<p>C) 0</p>",
-        "<p>D) 1/2</p>",
-        "<p>E) 1</p>"
+        "<p>D) 2/2</p>",
+        "<p>E) 4</p>"
       ]
     },
 
