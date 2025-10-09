@@ -9,7 +9,7 @@ return (
 <Hero />
 <Section title="Why Lightbulb">
 <p>
-We reward reasoning and clarity, not niche tricks. Two divisions keep it fair for 9–10 and 11–12. If a fact beyond the standard set is required, we state it.
+We reward reasoning and clarity, not niche tricks. Two divisions keep it fair for those without Calculus experience. If a fact beyond the standard set is required, we state it.
 </p>
 </Section>
 <Section title="Divisions">

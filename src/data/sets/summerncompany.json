@@ -225,7 +225,7 @@
         "<p>A) −4</p>",
         "<p>B) −2</p>",
         "<p>C) 0</p>",
-        "<p>D) 2/2</p>",
+        "<p>D) 2</p>",
         "<p>E) 4</p>"
       ]
     },
@@ -271,7 +271,7 @@
     {
       "id": "B22",
       "type": "mcq",
-      "prompt": "<p><strong>B22.</strong> How many 0s have to replace the star * in the decimal number 1.*1 to obtain a number that is smaller than 2008/2009 but bigger than 20008/20009?</p>",
+      "prompt": "<p><strong>B22.</strong> How many 0s have to replace the star * in the decimal number 1.*1 to obtain a number that is smaller than 2009/2008 but bigger than 20009/20008?</p>",
       "choices": [
         "<p>A) 1</p>",
         "<p>B) 2</p>",
@@ -283,13 +283,13 @@
     {
       "id": "B23",
       "type": "mcq",
-      "prompt": "<p><strong>B23.</strong> A kangaroo is sitting at the origin of a Cartesian coordinate system. With each bounce it can jump one unit horizontally or vertically. After 10 jumps, how many points could it be at?</p>",
+      "prompt": "<p><strong>B23.</strong> Three corners of a die (not all on one face) have the coordinates P(3, 4, 1), Q(5, 2, 9), and R(1, 6, 5). What are the coordinates of the midpoint of the die?</p>",
       "choices": [
-        "<p>A) 121</p>",
-        "<p>B) 100</p>",
-        "<p>C) 400</p>",
-        "<p>D) 441</p>",
-        "<p>E) a different number</p>"
+        "<p>A) (4,3,5)</p>",
+        "<p>B) (2,5,3)</p>",
+        "<p>C) (3,4,7)</p>",
+        "<p>D) (3,4,5)</p>",
+        "<p>E) (2,3,5)</p>"
       ]
     },
     {

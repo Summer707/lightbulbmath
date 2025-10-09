@@ -13,7 +13,7 @@
     {
       "id": "A2",
       "type": "mcq",
-      "prompt": "<p><strong>A2.</strong> John throws 150 coins onto a table. 60 of them show heads, the others tails. He wants the same amount of coins to show heads as tails. How many coins that show heads does he have to turn over?</p>",
+      "prompt": "<p><strong>A2.</strong> John throws 150 coins onto a table. 60 of them show heads, the others tails. He wants the same amount of coins to show heads as tails. How many coins does he have to turn over?</p>",
       "choices": ["<p>A) 10</p>", "<p>B) 15</p>", "<p>C) 20</p>", "<p>D) 25</p>", "<p>E) 30</p>"]
     },
     {
@@ -85,8 +85,8 @@
     {
       "id": "A14",
       "type": "mcq",
-      "prompt": "<p><strong>A14.</strong> The digits 0–9 can be drawn using horizontal and vertical lines as shown. Greg chooses two digits. Together, his digits have 1 horizontal line and 5 vertical lines. What is the sum of his two digits?</p>",
-      "choices": ["<p>A) 5</p>", "<p>B) 6</p>", "<p>C) 8</p>", "<p>D) 10</p>", "<p>E) 11</p>"]
+      "prompt": "<p><strong>A14.</strong> The sum of the digits of a nine-digit number is 8. How big is the product of the digits of this number?</p>",
+      "choices": ["<p>A) 0</p>", "<p>B) 1</p>", "<p>C) 8</p>", "<p>D) 9</p>", "<p>E) 9!</p>"]
     },
     {
       "id": "A15",
@@ -103,8 +103,8 @@
     {
       "id": "A17",
       "type": "mcq",
-      "prompt": "<p><strong>A17.</strong> Tarek wants to colour two more cells of the 4 × 4 square in black so that the pattern made by white and black cells in the 4 × 4 square has exactly one axis of symmetry. In how many ways can he do that?</p>",
-      "choices": ["<p>A) 2</p>", "<p>B) 3</p>", "<p>C) 4</p>", "<p>D) 5</p>", "<p>E) 6</p>"]
+      "prompt": "<p><strong>A17.</strong> When the numbers 144 and 220 are divided by the same positive whole number x, both have remainder 11. Find x.</p>",
+      "choices": ["<p>A) 7</p>", "<p>B) 11</p>", "<p>C) 15</p>", "<p>D) 19</p>", "<p>E) 38</p>"]
     },
     {
       "id": "A18",
@@ -128,19 +128,19 @@
       "id": "A21",
       "type": "mcq",
       "prompt": "<p><strong>A21.</strong> Tiler Teri wants to cover a square floor with a regular pattern using six-sided and three-sided tiles. She estimates that she will be needing approximately 3000 six-sided tiles for the entire floor. Approximately, how many three-sided tiles will she be needing?</p>",
-      "choices": ["<p>A) 1000</p>", "<p>B) 1500</p>", "<p>C) 3000</p>", "<p>D) 6000</p>", "<p>E) 9000</p>"]
+      "choices": ["<p>A) 8</p>", "<p>B) 9</p>", "<p>C) 10</p>", "<p>D) 11</p>", "<p>E) 12</p>"]
     },
     {
       "id": "A22",
       "type": "mcq",
-      "prompt": "<p><strong>A22.</strong> Dagobert wants to complete the diagram so that numbers in each box in the middle and top row are equal to the product of the values of the two boxes underneath. Each box should contain a positive whole number. He wants the top box to contain the number 36. How many different values can the number n have?</p>",
+      "prompt": "<p><strong>A22.</strong> Two sides of a quadrilateral have lengths 1 and 4. One of the diagonals has length 2 and splits the quadrilateral into two isosceles triangles. What is the perimeter of the quadrilateral?</p>",
       "choices": ["<p>A) 1</p>", "<p>B) 2</p>", "<p>C) 3</p>", "<p>D) 4</p>", "<p>E) 5</p>"]
     },
     {
       "id": "A23",
       "type": "mcq",
-      "prompt": "<p><strong>A23.</strong> Some kangaroos and three beavers are standing in a circle. No beaver stands directly next to another beaver. There are exactly three kangaroos that are standing next to another kangaroo. What is the biggest possible number of kangaroos in the circle?</p>",
-      "choices": ["<p>A) 4</p>", "<p>B) 5</p>", "<p>C) 6</p>", "<p>D) 7</p>", "<p>E) 8</p>"]
+      "prompt": "<p><strong>A23.</strong> What is the biggest remainder one can obtain by dividing a two-digit number by the sum of its digits?</p>",
+      "choices": ["<p>A) 13</p>", "<p>B) 14</p>", "<p>C) 15</p>", "<p>D) 16</p>", "<p>E) 17</p>"]
     },
     {
       "id": "A24",
@@ -151,14 +151,14 @@
     {
       "id": "A25",
       "type": "mcq",
-      "prompt": "<p><strong>A25.</strong> Captain Flint asks four of his pirates to note down how many gold, silver and bronze coins there were in the treasure chest on a piece of paper. Only one of the four pirates told the truth. The total number of coins was 30. Who told the truth?</p>",
-      "choices": ["<p>A) Tom</p>", "<p>B) Al</p>", "<p>C) Pit</p>", "<p>D) Jim</p>", "<p>E) This cannot be determined for sure</p>"]
+      "prompt": "<p><strong>A25.</strong> Positive numbers were written in a 3×3 grid in such a way that the product of the numbers in each row and each column is exactly 1. The product of the four numbers in each 2×2 grid that can be found inside the 3×3 grid is 2. Which number is written in the centre of the 3×3 grid?</p>",
+      "choices": ["<p>A) 16</p>", "<p>B) 8</p>", "<p>C) 4</p>", "<p>D) 1/4</p>", "<p>E) 1/8</p>"]
     },
     {
       "id": "A26",
       "type": "mcq",
-      "prompt": "<p><strong>A26.</strong> Consider the pentagon ABCDE with ∡BAE = ∡CBA = 90°, AE = BC and ED = DC. Four points are marked along AB, dividing AB into five equal parts. Vertical lines are then drawn through these points as shown. The dark part in the middle has an area of 13 cm² and the lightly shaded part to the left has an area of 10 cm². What is the area of the entire pentagon in cm²?</p>",
-      "choices": ["<p>A) 45</p>", "<p>B) 47</p>", "<p>C) 49</p>", "<p>D) 58</p>", "<p>E) 60</p>"]
+      "prompt": "<p><strong>A26.</strong> It takes 8 seconds for train G to pass by a milestone. Shortly afterwards the train meets train H. It takes 9 seconds for the trains to pass each other. Train H then takes 12 seconds to pass by the milestone. What can be deduced about the length of the trains?</p>",
+      "choices": ["<p>A) G is twice as long as H.</p>", "<p>B) They are the same length.</p>", "<p>C) H is 50% longer than G.</p>", "<p>D) H is twice as long as G.</p>", "<p>E) Nothing can be deduced.</p>"]
     },
     {
       "id": "A27",
